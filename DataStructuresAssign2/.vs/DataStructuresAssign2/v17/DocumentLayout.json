@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\nick_\\Desktop\\SENG1050A02\\DataStructuresAssign2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DE15A5B8-7145-4132-A606-657DAA8C587C}|DataStructuresAssign2.vcxproj|C:\\Users\\nick_\\Desktop\\SENG1050A02\\DataStructuresAssign2\\functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE15A5B8-7145-4132-A606-657DAA8C587C}|DataStructuresAssign2.vcxproj|solutionrelative:functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE15A5B8-7145-4132-A606-657DAA8C587C}|DataStructuresAssign2.vcxproj|C:\\Users\\nick_\\Desktop\\SENG1050A02\\DataStructuresAssign2\\functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE15A5B8-7145-4132-A606-657DAA8C587C}|DataStructuresAssign2.vcxproj|solutionrelative:functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DE15A5B8-7145-4132-A606-657DAA8C587C}|DataStructuresAssign2.vcxproj|C:\\Users\\nick_\\Desktop\\SENG1050A02\\DataStructuresAssign2\\DataStructuresAssign2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DE15A5B8-7145-4132-A606-657DAA8C587C}|DataStructuresAssign2.vcxproj|solutionrelative:DataStructuresAssign2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -31,12 +39,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "functions.cpp",
+              "DocumentMoniker": "C:\\Users\\nick_\\Desktop\\SENG1050A02\\DataStructuresAssign2\\functions.cpp",
+              "RelativeDocumentMoniker": "functions.cpp",
+              "ToolTip": "C:\\Users\\nick_\\Desktop\\SENG1050A02\\DataStructuresAssign2\\functions.cpp",
+              "RelativeToolTip": "functions.cpp",
+              "ViewState": "AgIAAHMBAAAAAAAAAAAQwIMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-23T20:20:25.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "functions.h",
+              "DocumentMoniker": "C:\\Users\\nick_\\Desktop\\SENG1050A02\\DataStructuresAssign2\\functions.h",
+              "RelativeDocumentMoniker": "functions.h",
+              "ToolTip": "C:\\Users\\nick_\\Desktop\\SENG1050A02\\DataStructuresAssign2\\functions.h",
+              "RelativeToolTip": "functions.h",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-23T20:21:01.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "DataStructuresAssign2.cpp",
               "DocumentMoniker": "C:\\Users\\nick_\\Desktop\\SENG1050A02\\DataStructuresAssign2\\DataStructuresAssign2.cpp",
               "RelativeDocumentMoniker": "DataStructuresAssign2.cpp",
               "ToolTip": "C:\\Users\\nick_\\Desktop\\SENG1050A02\\DataStructuresAssign2\\DataStructuresAssign2.cpp",
               "RelativeToolTip": "DataStructuresAssign2.cpp",
-              "ViewState": "AgIAAOsAAAAAAAAAAAAowO8AAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-13T00:53:51.765Z",
               "EditorCaption": ""
